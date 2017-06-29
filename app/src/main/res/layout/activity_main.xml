@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/l11"
+    android:orientation="vertical"
+    android:background="#7dedea22"
+    android:gravity="center"
+   >
+
+    <Spinner
+        android:id="@+id/sp2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></Spinner>
+
+
+</LinearLayout>
